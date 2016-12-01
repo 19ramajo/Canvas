@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_rectangulo"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="Rectangulo" />
+        <item
+            android:id="@+id/nav_cuadrado"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="Cuadrado" />
+        <item
+            android:id="@+id/nav_circulo"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="Circulo" />
+        <item
+            android:id="@+id/nav_dibujar"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="dibujar" />
+    </group>
+
+
+</menu>
